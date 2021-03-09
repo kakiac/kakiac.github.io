@@ -1,7 +1,9 @@
 ---
 permalink: /research/
+layout: single
 title: "Research"
 author: Kakia Chatsiou
+author_profile: true
 ---
 
 
