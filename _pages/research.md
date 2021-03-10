@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-## Enabling Community Resilience through Digital Transformation
+## Computational Modelling of Community Resilience
 
 <img src="../assets/images/11.png" width="1000">
 
