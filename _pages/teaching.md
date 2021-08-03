@@ -3,6 +3,12 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Academic Year 2020/21
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+* [Cloud Computing for Data Science and Artificial Intelligence](https://github.com/kakiac/UoS_CloudComputing)
+
+## Academic Year 2021/22
+* [Introduction to Programming (Lvl 4) - Autumn Term](https://github.com/kakiac/UoS_Programming101)
+* Introduction to Programming (Lvl 4) - Spring Term
+* [Software Design and Programming (Lvl 5) - Autumn Term](https://github.com/kakiac/UoS_SoftwareDesignProgramming)
+* [Cloud Computing for Data Science and Artificial Intelligence (Lvl 7) - Spring Term](https://github.com/kakiac/UoS_CloudComputing)
