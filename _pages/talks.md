@@ -5,6 +5,14 @@ author_profile: true
 title: "Talks"
 ---
 
+###  AI for Business Masterclass series (University of Suffolk) 
+ [register here](https://www.eventbrite.co.uk/e/ai-for-business-masterclass-series-tickets-220810739867)
+ * 2022-04-06, Part 1: Create your AI & Data Strategy!
+ [slides](../assets/talks/20220223_AIMasterclass_DataStrategy.pdf)
+ * 2022-04-06, Part 2: From Data to Insights: 
+ [slides](../assets/talks/20220406_AIMasterclass_Data2Insights.pdf)
+ * 2022-04-27, Part 3: Migrating to the cloud for Smarter Business: How cloud computing can benefit your business
+
 ### Social Return on Investment (SROI): Demonstrating your organisation's value
 (2021-01-13, BLG Data webinar)
 | [slides](../assets/talks/20210113_BLG_SROI.pdf)
