@@ -12,7 +12,10 @@ Date                | Description
 # To Dos
 
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
-- [ ] this is another incomplete item
+- [ ] refresh list of links on the menu on the left
+- [ ] Update homepage
+- [ ] Update research page and include list of publications
+- [ ] Update teaching page
+- [ ] include PhD supervision page
+- [ ] update talk pages
+
